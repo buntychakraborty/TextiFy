@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797261383184",
+    "firebase_url": "https://textify-2439e.firebaseio.com",
+    "project_id": "textify-2439e",
+    "storage_bucket": "textify-2439e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797261383184:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797261383184-a3maf20834eliqpq9f60lcbmeggqns3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "b08da52d6a06d1a78e9d651cc33fd0bc9a785188"
+          }
+        },
+        {
+          "client_id": "797261383184-v1gatmg70d2qirbec2a2c59u5cqqbrol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLCD-_Fsf8N0jMkBPWjl5_8kHng5ApcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797261383184-v1gatmg70d2qirbec2a2c59u5cqqbrol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
